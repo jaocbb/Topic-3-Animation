@@ -172,7 +172,7 @@ namespace Topic_3_Animation
                 _spriteBatch.Draw(BrownTexture, BrownRect, Color.White);
                 _spriteBatch.Draw(CreamTexture, CreamRect, Color.White);
                 _spriteBatch.Draw(OrangeTexture, OrangeRect, Color.White);
-               
+                
             }
             if (mouseState.RightButton == ButtonState.Pressed)
             {
